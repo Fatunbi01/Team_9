@@ -1,0 +1,3 @@
+- My name is Olumide
+- My favourite devops tool is docker 
+- git command i learnt: git clone
