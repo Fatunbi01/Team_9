@@ -1,3 +1,4 @@
 My  name is ornella
-my favorite devops tools ia docker
-git command I leant how to navigate git
+my favorite git command is clone 
+It simplifies collaboration
+Provides complete project history
