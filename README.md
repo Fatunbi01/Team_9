@@ -1,2 +1,2 @@
-# Team_9
-This is team 9 repo
+My name is Melodie 
+I love learning DevOps
